@@ -1,0 +1,20 @@
+body {
+  margin-top: 10%;
+  background-color: rgb(26, 68, 92);
+}
+
+.contenedor {
+  background: url(/p7.jpg);
+  margin-top: 10%;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 5%;
+  border-radius: 2%;
+}
+
+.boton {
+  font-size: 120%;
+  cursor: pointer;
+  background-color: rgb(180, 109, 47);
+  border: none;
+}
